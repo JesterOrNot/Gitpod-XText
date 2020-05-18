@@ -1,0 +1,3 @@
+include 'org.xtext.hello'
+include 'org.xtext.hello.ide'
+include 'org.xtext.hello.web'

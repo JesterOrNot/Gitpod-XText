@@ -9,3 +9,7 @@ ports:
     onOpen: ignore
 tasks:
   - command: cd /tmp/eclipse-installer && ./eclipse-inst
+vscode:
+  extensions:
+    - grammarcraft.xtext-lang@0.4.0:w2H9TVrWxFKd03NAD9MBJA==
+    - GrammarCraft.xtend-lang@0.1.0:Imxa0vYqAEpd11eN0u1gqw==

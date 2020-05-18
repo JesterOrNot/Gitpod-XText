@@ -1,0 +1,1 @@
+./org.xtext.hello/build/libs/org.xtext.hello-1.0.0-SNAPSHOT.jar
