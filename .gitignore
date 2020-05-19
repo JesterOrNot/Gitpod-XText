@@ -1,5 +1,6 @@
 .*
 !/.gitignore
+!/.theia
 !/.gitkeep
 bin/
 target/
@@ -11,3 +12,4 @@ src-gen/
 xtend-gen/
 .DS_Store
 *.xml_gen
+.gitpod*
